@@ -6,12 +6,11 @@ Ce projet consiste à développer un mini interpréteur Prolog en langage C.
 
 Il permet de créer une base de connaissances composée de faits et de règles, d'exécuter des requêtes, d'effectuer l'unification des termes et de résoudre des objectifs grâce au mécanisme de backtracking.
 
-Ce projet a été réalisé dans le cadre d'un cours de programmation.
+Ce projet a été réalisé dans le cadre d'un cours de programmation ALGO.
 
 ---
 
-## Fonctionnalités
-
+## Fonctionnalité
 - Gestion des faits et des règles
 - Analyse des requêtes Prolog
 - Algorithme d'unification
@@ -29,7 +28,7 @@ Ce projet a été réalisé dans le cadre d'un cours de programmation.
 
 ## Structure du projet
 
-- `main.c` : implémentation de l'interpréteur Prolog
+- `interpreteur_prolog.c` : implémentation de l'interpréteur Prolog
 
 ---
 
@@ -61,4 +60,4 @@ Puis exécuter :
 
 ## Auteur
 
-Melissa Bali
+Melissa
